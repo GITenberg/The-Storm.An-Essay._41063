@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Daniel_Defoe
     - http://www.gutenberg.org/browse/authors/j#a26500
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41063#The-Storm.An-Essay.
 gutenberg_issued: '2012-10-14'
 gutenberg_type: Text
 identifiers:
